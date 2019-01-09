@@ -25,6 +25,8 @@ function svg2ttfTransform(options) {
         ts: options.timestamp,
         copyright: options.copyright,
         version: options.version,
+        description: options.description,
+        url: options.url,
       }).buffer);
     } catch (err2) {
       cb(new gutil.PluginError(PLUGIN_NAME, err2, { showStack: true }));
