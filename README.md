@@ -4,7 +4,7 @@
 
 Fixed version of [gulp-svg2ttf](https://github.com/nfroidure/gulp-svg2ttf).
 
-[![NPM version](https://badge.fury.io/js/%40m-o-z-g%2Fgulp-svg2ttf.png)](https://npmjs.org/package/@m-o-z-g/gulp-svg2ttf) [![Dependency Status](https://david-dm.org/m-o-z-g/gulp-svg2ttf.png)](https://david-dm.org/m-o-z-g/gulp-svg2ttf) [![devDependency Status](https://david-dm.org/m-o-z-g/gulp-svg2ttf/dev-status.png)](https://david-dm.org/m-o-z-g/gulp-svg2ttf#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/github/M-O-Z-G/gulp-svg2ttf/badge.svg?branch=master)](https://coveralls.io/github/M-O-Z-G/gulp-svg2ttf?branch=master)
+[![NPM version](https://badge.fury.io/js/%40m-o-z-g%2Fgulp-svg2ttf.png)](https://npmjs.org/package/@m-o-z-g/gulp-svg2ttf) [![Build status](https://secure.travis-ci.org/M-O-Z-G/gulp-svg2ttf.png)](https://travis-ci.org/M-O-Z-G/gulp-svg2ttf) [![Dependency Status](https://david-dm.org/m-o-z-g/gulp-svg2ttf.png)](https://david-dm.org/m-o-z-g/gulp-svg2ttf) [![devDependency Status](https://david-dm.org/m-o-z-g/gulp-svg2ttf/dev-status.png)](https://david-dm.org/m-o-z-g/gulp-svg2ttf#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/github/M-O-Z-G/gulp-svg2ttf/badge.svg?branch=master)](https://coveralls.io/github/M-O-Z-G/gulp-svg2ttf?branch=master)
 
 ## Usage
 
