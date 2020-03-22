@@ -6,7 +6,7 @@ const gutil = require('gulp-util');
 const BufferStreams = require('bufferstreams');
 const svg2ttf = require('svg2ttf');
 
-const PLUGIN_NAME = 'gulp-svg2ttf';
+const PLUGIN_NAME = '@m-o-z-g/gulp-svg2ttf';
 
 // File level transform function
 function svg2ttfTransform(options) {
@@ -90,6 +90,8 @@ function svg2ttfGulp(options) {
           ts: options.timestamp,
           copyright: options.copyright,
           version: options.version,
+          description: options.description,
+          url: options.url,
         }).buffer);
       } catch (err) {
         stream.emit('error',

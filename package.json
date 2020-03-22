@@ -1,15 +1,18 @@
 {
-  "name": "gulp-svg2ttf",
+  "name": "@m-o-z-g/gulp-svg2ttf",
   "description": "Create a TTF font from an SVG font",
   "version": "2.0.1",
-  "homepage": "https://github.com/nfroidure/gulp-svg2ttf",
+  "homepage": "https://github.com/M-O-Z-G/gulp-svg2ttf",
   "author": {
     "name": "Nicolas Froidure",
     "url": "http://www.insertafter.com/blog.html"
   },
+  "contributors": [
+    "Aleksandr Dikov <alexandermozgdikov+github@gmail.com> (https://mozg-studio.org)"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfroidure/gulp-svg2ttf.git"
+    "url": "git://github.com/M-O-Z-G/gulp-svg2ttf.git"
   },
   "bugs": {
     "url": "https://github.com/nfroidure/gulp-svg2ttf/issues"
@@ -51,5 +54,8 @@
     "svg",
     "ttf",
     "converter"
-  ]
+  ],
+  "directories": {
+    "test": "tests"
+  }
 }
